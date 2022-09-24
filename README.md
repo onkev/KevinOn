@@ -11,7 +11,7 @@
 
 ----
 
-### Tech
+### Tech Stack
 
 ##### My Knowledge Base
 ###### Languages
