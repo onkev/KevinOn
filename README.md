@@ -1,4 +1,4 @@
-## Hello, it's Kevin.
+## Hey, it's Kevin.
 
 ### About Me
 * I've recently discovered that programming is something I want to move my career in.
