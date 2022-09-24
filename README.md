@@ -1,7 +1,7 @@
 ## Hey, it's Kevin.
 
 ### About Me
-* I've recently discovered that programming is something I want to move my career in.
+* I've recently discovered that programming is something I want to move my career towards.
 * Currently, I am a Consultant focusing on compensation analysis.
 * In my off time, I'll be working out, explorign the outdoors, playing games, building computers, or hanging out with friends.
 
