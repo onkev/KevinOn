@@ -3,7 +3,7 @@
 ### About Me
 * I've recently discovered that software development is a career I would like to pursue.
 * Currently, I am a Consultant focusing on compensation analysis.
-* In my off time, I'll be working out, explorign the outdoors, playing games, building computers, or hanging out with friends.
+* In my off time, I'll be working out, exploring the outdoors, playing games, building computers, or hanging out with friends.
 
 #### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onkevin/)
